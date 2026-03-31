@@ -1,0 +1,14 @@
+📌 Introduction
+
+This project analyzes Indian Premier League (IPL) data across multiple seasons to derive key insights into:
+
+Player performance
+Team success
+Match trends
+
+The dataset consists of two primary tables:
+
+Matches Table
+Contains match-level information such as venue, date, teams, and match winner.
+Deliveries Table
+Contains ball-by-ball data including batsman, bowler, runs scored, and dismissal types.
